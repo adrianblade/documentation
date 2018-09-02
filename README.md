@@ -8,7 +8,7 @@
 # Java
 * [arquitecturajava](https://www.arquitecturajava.com/)
 * [baeldung](https://www.baeldung.com/java-weekly-242)
-* [codegists]https://codegists.com/)
+* [codegists](https://codegists.com/)
 * [codenotfound](codenotfound)
 * [dzone](https://dzone.com)
 * [guate-jug](http://www.guate-jug.net/category/comunida)
@@ -28,6 +28,7 @@
 
 # Microservices
 * [microservices](https://microservices.io/)
+* [monolith to microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 
 # Rest
 * [bestpractices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
