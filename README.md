@@ -36,3 +36,10 @@
 
 # Rest
 * [bestpractices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+# Public API
+* [abhishekbanthia](https://github.com/abhishekbanthia/Public-APIs/)
+* [anyApi](https://any-api.com/)
+* [apiListFun](https://apilist.fun/)
+* [ringCentral](https://developers.ringcentral.com/)
+* [ringCentral](https://github.com/toddmotto/public-apis)
