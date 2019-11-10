@@ -35,6 +35,7 @@
 
 # Github
 * [akullpp](https://github.com/akullpp)
+* [PacktPublishing](https://github.com/PacktPublishing)
 
 # Microservices
 * [microservices](https://microservices.io/)
