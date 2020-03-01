@@ -51,3 +51,6 @@
 * [apiListFun](https://apilist.fun/)
 * [ringCentral](https://developers.ringcentral.com/)
 * [ringCentral](https://github.com/toddmotto/public-apis)
+
+# Others
+* [learn x in y minutes](https://learnxinyminutes.com/)
