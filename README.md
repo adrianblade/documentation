@@ -31,7 +31,7 @@
 * []()
 
 # Jira
-* [jira-convention] (https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
+* [jira-convention](https://stratejos.ai/blog/naming-task-bug-user-story-titles/)
 
 # Kata
 * [kata-codurance](https://katalyst.codurance.com/browse)
