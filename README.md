@@ -7,6 +7,7 @@
 
 # Azure
 * [Free-Register](https://azure.microsoft.com/es-es/free/)
+* [Study-guide](https://vladtalkstech.com/az-900-study-guide-microsoft-azure-fundamentals)
 
 # Books
 * [Books stackoverflow](https://bookinsider.gitlab.io/2018/12/01/top-books-on-so/)
