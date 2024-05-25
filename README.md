@@ -18,6 +18,9 @@
 # DotFiles
 * [Dotfiles](https://dotfiles.github.io/)
 
+# EDA
+* [EDA Visuals](https://eda-visuals.boyney.io/)
+
 # Java
 * [arquitecturajava](https://www.arquitecturajava.com/)
 * [baeldung](https://www.baeldung.com/java-weekly-242)
