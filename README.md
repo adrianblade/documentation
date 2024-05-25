@@ -20,6 +20,7 @@
 
 # EDA
 * [EDA Visuals](https://eda-visuals.boyney.io/)
+* [Serverlessland](https://serverlessland.com/)
 
 # Java
 * [arquitecturajava](https://www.arquitecturajava.com/)
