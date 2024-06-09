@@ -56,9 +56,6 @@
 * [monolith to microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 * [k8s + spring-boot + message queues](https://learnk8s.io/blog/scaling-spring-boot-microservices)
 
-# Rest
-* [bestpractices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
 # Public API
 * [abhishekbanthia](https://github.com/abhishekbanthia/Public-APIs/)
 * [anyApi](https://any-api.com/)
